@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vPROCESSING_UNIT
+Z0 !s110 1666721985
+!i10b 1
+!s100 YV`==oB3TK>Jl0`k;;zGb0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IOeiGNI^<gIDM<z@GfhD:L2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/AAADRENALINE/KPI/Aparat arcelerators/Lab1(ModelSim)
+w1666720746
+8PROCESSING_UNIT.v
+FPROCESSING_UNIT.v
+!i122 22
+L0 40 231
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1666721985.000000
+!s107 PROCESSING_UNIT.v|
+!s90 -reportprogress|300|PROCESSING_UNIT.v|
+!i113 1
+Z6 tCvgOpt 0
+n@p@r@o@c@e@s@s@i@n@g_@u@n@i@t
+vPROCESSING_UNIT_tb
+R0
+!i10b 1
+!s100 g05L5:U12;]fGP_hfPNCj2
+R1
+IELHHF?:EaMKPELjaZ1]TK2
+R2
+R3
+w1666720802
+8PROCESSING_UNIT_tb.v
+FPROCESSING_UNIT_tb.v
+!i122 23
+L0 40 625
+R4
+r1
+!s85 0
+31
+R5
+!s107 PROCESSING_UNIT_tb.v|
+!s90 -reportprogress|300|PROCESSING_UNIT_tb.v|
+!i113 1
+R6
+n@p@r@o@c@e@s@s@i@n@g_@u@n@i@t_tb

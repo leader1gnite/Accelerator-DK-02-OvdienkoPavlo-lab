@@ -1,0 +1,15 @@
+{C:/AAADRENALINE/KPI/Aparat arcelerators/Lab1(ModelSim)/PROCESSING_UNIT.v} {1 {vlog -work work -stats=none {C:/AAADRENALINE/KPI/Aparat arcelerators/Lab1(ModelSim)/PROCESSING_UNIT.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PROCESSING_UNIT
+
+Top level modules:
+	PROCESSING_UNIT
+
+} {} {}} {C:/AAADRENALINE/KPI/Aparat arcelerators/Lab1(ModelSim)/PROCESSING_UNIT_tb.v} {1 {vlog -work work -stats=none {C:/AAADRENALINE/KPI/Aparat arcelerators/Lab1(ModelSim)/PROCESSING_UNIT_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PROCESSING_UNIT_tb
+
+Top level modules:
+	PROCESSING_UNIT_tb
+
+} {} {}}
