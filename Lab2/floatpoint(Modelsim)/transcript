@@ -1,0 +1,130 @@
+do {C:/AAADRENALINE/KPI/Aparat arcelerators/floatpoint(Modelsim)/Enabled_Subsystem_compile.do}
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap -c 
+# Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# ** Warning: Copied C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:37 on Jan 13,2023
+# vlog -reportprogress 300 nfp_add_single.v 
+# -- Compiling module nfp_add_single
+# 
+# Top level modules:
+# 	nfp_add_single
+# End time: 05:43:37 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:37 on Jan 13,2023
+# vlog -reportprogress 300 nfp_mul_single.v 
+# -- Compiling module nfp_mul_single
+# 
+# Top level modules:
+# 	nfp_mul_single
+# End time: 05:43:37 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:37 on Jan 13,2023
+# vlog -reportprogress 300 nfp_sqrt_single.v 
+# -- Compiling module nfp_sqrt_single
+# 
+# Top level modules:
+# 	nfp_sqrt_single
+# End time: 05:43:38 on Jan 13,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:38 on Jan 13,2023
+# vlog -reportprogress 300 nfp_atan2_single.v 
+# -- Compiling module nfp_atan2_single
+# 
+# Top level modules:
+# 	nfp_atan2_single
+# End time: 05:43:38 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:39 on Jan 13,2023
+# vlog -reportprogress 300 Enabled_Subsystem.v 
+# -- Compiling module Enabled_Subsystem
+# 
+# Top level modules:
+# 	Enabled_Subsystem
+# End time: 05:43:39 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do {C:/AAADRENALINE/KPI/Aparat arcelerators/floatpoint(Modelsim)/Enabled_Subsystem_tb_compile.do}
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap -c 
+# ** Warning: vmap will not overwrite local modelsim.ini.
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:41 on Jan 13,2023
+# vlog -reportprogress 300 nfp_add_single.v 
+# -- Compiling module nfp_add_single
+# 
+# Top level modules:
+# 	nfp_add_single
+# End time: 05:43:41 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:41 on Jan 13,2023
+# vlog -reportprogress 300 nfp_mul_single.v 
+# -- Compiling module nfp_mul_single
+# 
+# Top level modules:
+# 	nfp_mul_single
+# End time: 05:43:41 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:41 on Jan 13,2023
+# vlog -reportprogress 300 nfp_sqrt_single.v 
+# -- Compiling module nfp_sqrt_single
+# 
+# Top level modules:
+# 	nfp_sqrt_single
+# End time: 05:43:41 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:41 on Jan 13,2023
+# vlog -reportprogress 300 nfp_atan2_single.v 
+# -- Compiling module nfp_atan2_single
+# 
+# Top level modules:
+# 	nfp_atan2_single
+# End time: 05:43:41 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:41 on Jan 13,2023
+# vlog -reportprogress 300 Enabled_Subsystem.v 
+# -- Compiling module Enabled_Subsystem
+# 
+# Top level modules:
+# 	Enabled_Subsystem
+# End time: 05:43:41 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 05:43:41 on Jan 13,2023
+# vlog -reportprogress 300 Enabled_Subsystem_tb.v 
+# -- Compiling module Enabled_Subsystem_tb
+# 
+# Top level modules:
+# 	Enabled_Subsystem_tb
+# End time: 05:43:41 on Jan 13,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do {C:/AAADRENALINE/KPI/Aparat arcelerators/floatpoint(Modelsim)/Enabled_Subsystem_tb_sim.do}
+# vsim -voptargs="+acc" work.Enabled_Subsystem_tb 
+# Start time: 05:43:44 on Jan 13,2023
+# Loading work.Enabled_Subsystem_tb
+# Loading work.Enabled_Subsystem
+# Loading work.nfp_mul_single
+# Loading work.nfp_add_single
+# Loading work.nfp_sqrt_single
+# Loading work.nfp_atan2_single
+# ERROR in o_PHASE at time                  610 : Expected '400c8996' Actual '400c8997'
+# ERROR in o_PHASE at time                  770 : Expected 'c01846ab' Actual 'c01846ac'
+# ERROR in o_PHASE at time                  790 : Expected 'bfe7c927' Actual 'bfe7c929'
+# ERROR in o_PHASE at time                  940 : Expected 'c00aeeaa' Actual 'c00aeeab'
+# ERROR in o_PHASE at time                 1010 : Expected 'c016eb62' Actual 'c016eb63'
+# **************TEST COMPLETED (FAILED)**************
+# ** Note: $stop    : Enabled_Subsystem_tb.v(510)
+#    Time: 1060 ns  Iteration: 0  Instance: /Enabled_Subsystem_tb
+# Break in NamedBeginStat clk_gen at Enabled_Subsystem_tb.v line 510
+# End time: 05:47:37 on Jan 13,2023, Elapsed time: 0:03:53
+# Errors: 0, Warnings: 4
